@@ -1,0 +1,7 @@
+gradio
+langchain
+sentence_transformers
+numpy
+faiss
+gensim
+spacy
